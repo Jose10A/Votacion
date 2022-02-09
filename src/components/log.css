@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.body{
+    background: rgb(175,186,201);
+    background: radial-gradient(circle, rgba(175,186,201,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+input{
+    border: 0;
+    border-bottom: 1px solid rgb(204, 199, 199);
+}
+.card{
+    border-radius: 10px;
+    box-shadow:4px 5px 10px 0px rgba(0,0,0,0.75);
+    
+}
+p{
+    font-family: 'Dosis', sans-serif;
+}
+.Olvido{
+    font-size: 11px;
+}
+.Registrar{
+    font-family: 'Montserrat', sans-serif;
+    background-color: hsla(212, 35%, 58%);
+    color: white;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 8px 50px;
+    margin-bottom: 0px;
+}
+.Registrar:hover{
+    background-color: black;
+}
+.btn1{
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  
+}
+.btn2{
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
